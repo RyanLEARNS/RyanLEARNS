@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanLEARNS
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on projects that can chnage the world
+- 👀 I’m exploring the world of tech
+- 🌱 I’m currently looking for a new challenge 
+- 💞️ I’m looking to collaborate on projects can make the world a better place
 - 📫 How to reach me ryan.sohjr.pc@outlook.com
 
 <!---
